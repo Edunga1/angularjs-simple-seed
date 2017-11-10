@@ -1,6 +1,6 @@
 <html ng-app="app">
     <script src="lib/angular.min.js"></script>
-    <script src="lib/angular-route.min.js"></script>
+    <script src="lib/angular-ui-router.min.js"></script>
 
     <script src="app/app.module.js"></script>
     <script src="app/core/core.module.js"></script>
@@ -9,6 +9,8 @@
     <script src="app/foo/foo.module.js"></script>
     <script src="app/foo/foo.route.js"></script>
     <script src="app/foo/foo.controller.js"></script>
+    <script src="app/foo/foo.sub1.controller.js"></script>
+    <script src="app/foo/foo.sub2.controller.js"></script>
 
     <!-- module Bar -->
     <script src="app/bar/bar.module.js"></script>
@@ -20,5 +22,5 @@
         <li><a href="#!/bar">bar</a></li>
     </ul>
 
-    <div ng-view></div>
+    <div ui-view></div>
 </html>
