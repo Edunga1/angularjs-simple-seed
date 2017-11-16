@@ -5,7 +5,7 @@
   - two features
 
 `angular-ui-router`
-  - AngularJS + UI
+  - AngularJS + UI Router
   - two features 
   - two sub features
   - nested view (main, feature view)
