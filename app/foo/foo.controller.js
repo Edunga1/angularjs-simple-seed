@@ -1,5 +1,5 @@
 angular.
-    module('app.foo').
-    controller('fooCtrl', function () {
-        console.log('Foo Controller');
-    });
+  module('app.foo').
+  controller('fooCtrl', function () {
+    console.log('Foo Controller');
+  });

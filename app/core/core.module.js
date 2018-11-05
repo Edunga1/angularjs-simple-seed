@@ -1,4 +1,4 @@
 angular.
-    module('app.core', [
-        'ngRoute'
-    ]);
+  module('app.core', [
+    'ngRoute'
+  ]);

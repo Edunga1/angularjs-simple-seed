@@ -1,9 +1,9 @@
 angular.
-    module('app', [
-        /* Shared modules */
-        'app.core',
+  module('app', [
+    /* Shared modules */
+    'app.core',
 
-        /* Feature areas */
-        'app.foo',
-        'app.bar'
-    ]);
+    /* Feature areas */
+    'app.foo',
+    'app.bar'
+  ]);

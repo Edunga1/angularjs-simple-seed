@@ -1,2 +1,2 @@
 angular.
-    module('app.bar', []);
+  module('app.bar', []);
